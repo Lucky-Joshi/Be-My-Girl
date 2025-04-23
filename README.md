@@ -1,5 +1,3 @@
-# README.md
-
 ## 💖 Will You Be My Gurl! 💌
 
 This project is a lovingly crafted interactive webpage that simulates a romantic confession experience. Built using HTML, CSS, and JavaScript, it walks the recipient through a playful and emotional proposal, enhanced by animations, cute bear gifs, custom dialogs, and a heartfelt message.
